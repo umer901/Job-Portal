@@ -1,0 +1,92 @@
+.img-edit {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 20px;
+    left: 40px;
+}
+
+.page-title {
+    position: absolute;
+    top: 145px;
+    left: 50px;
+    font-size: 40px;
+}
+
+.search-description {
+    position: absolute;
+    top: 220px;
+    left: 100px;
+    font-size: 25px;
+}
+
+.selcolor {
+    background-color: red;
+}
+
+.inner-title {
+    position: absolute;
+    top: 300px;
+    left: 100px;
+    font-size: 30px;
+}
+
+.reg-num {
+    position: absolute;
+    top: 350px;
+    left: 100px;
+}
+
+.title {
+    position: absolute;
+    top: 350px;
+    left: 950px;
+}
+
+.desc {
+    position: absolute;
+    top: 445px;
+    left: 100px;
+}
+
+.company {
+    position: absolute;
+    top: 445px;
+    left: 550px;
+}
+
+.cnic-heading {
+    position: absolute;
+    top: 350px;
+    left: 550px;
+}
+
+.industry-heading {
+    position: absolute;
+    top: 400px;
+    left: 100px;
+}
+
+.location-heading {
+    position: absolute;
+    top: 400px;
+    left: 400px;
+}
+
+.joblevel-heading {
+    position: absolute;
+    top: 400px;
+    left: 700px;
+}
+
+.salary-heading {
+    position: absolute;
+    top: 400px;
+    left: 1000px;
+}
+
+.button-style {
+    position: absolute;
+    top: 400px;
+    left: 1300px;
+}

@@ -1,0 +1,9 @@
+Team Contributions
+
+Muhammad Umer Malik
+
+-Main HomePage, Employee Homepage, Employer Homepage UI
+-Create CV Use Case
+-Download CV Use Case
+-Alternate version of Login, Sign Up and Logout Use Case with User Roles
+

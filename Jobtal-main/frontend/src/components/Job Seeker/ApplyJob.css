@@ -1,0 +1,60 @@
+.apply-job-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .apply-job-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .apply-job-form > * {
+    margin: 10px;
+  }
+  
+  .apply-job-form label {
+    width: 100px;
+    text-align: right;
+  }
+  
+  .apply-job-form input[type="text"],
+  .apply-job-form input[type="file"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .apply-job-form select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+  }
+  
+  .apply-job-form button[type="submit"] {
+    width: 7%;
+    padding: 10px;
+    background-color: #b90000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .apply-job-form button[type="submit"]:hover {
+    background-color: #f40d0d;
+  }
+  
+  .apply-job-error {
+    color: red;
+    margin-left: 130px;
+  }
+  
